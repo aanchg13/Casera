@@ -3,8 +3,10 @@
 Casera is a groundbreaking platform designed to bridge the gap between those with excess homemade food and individuals looking for home-cooked meals. By targeting key customer segments including working professionals, students, the elderly, and homemakers, Casera addresses the unmet needs of both buyers and sellers in the food marketplace.
 
 ## Features
-Smart Cook & Customer Matching: Utilizes preferences and location to match homemade food sellers with buyers.
-Flexible In-App Payments: Offers a variety of payment options for convenience.
+Smart Cook & Customer Matching: Utilizes preferences and location to match homemade food sellers with buyers.  
+
+Flexible In-App Payments: Offers a variety of payment options for convenience.  
+
 Live Tracking: Enables buyers to track their orders in real-time.
 Order Customization: Allows users to specify their meal preferences.
 Engaging User Feedback: Encourages users to rate and review their experiences.
